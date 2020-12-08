@@ -1,7 +1,6 @@
-# Copyright 2020 Center for Intelligent and Networked Systems.
+# Copyright 2020 Center for Intelligent and Networked Systems, Department of Automation, Tsinghua University, Beijing, China.
 # This program is distributed under the Apache license 2.0.
 # Supported by National Key Research and Development Project of China (No. 2017YFC0704100 entitled New generation intelligent building platform techniques) and the National Natural Science Foundation of China (No. 61425027), the 111 International Collaboration Program of China under Grant BP2018006.
-# 
 import json
 import threading
 import socket
